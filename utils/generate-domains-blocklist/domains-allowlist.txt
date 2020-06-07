@@ -37,9 +37,7 @@ localhost
 login.microsoftonline.com
 login.yahoo.com
 mdidesign.ca
-microsoft.com
 mobiledl.adobe.com
-msedge.net
 msftconnecttest.com
 msftncsi.com
 nsatc.net
@@ -68,5 +66,4 @@ tagcommander.com
 urldefense.proofpoint.com
 userbenchmark.com
 vlab.pp.ru
-windows.net
 youtu.be
