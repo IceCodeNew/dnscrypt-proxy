@@ -1,11 +1,9 @@
-163.com
 a-msedge.net
 amazon.com
 app.link
 apple.com
 appsflyer.com
 azurewebsites.net
-baidu.com
 bankofamerica.com
 cdn.cloudflare.net
 cdn.optimizely.com
@@ -14,7 +12,6 @@ cdninstagram.com
 ce5.at
 cloudapp.net
 demon-networks.com
-dl.360safe.com
 download.dnscrypt.info
 edgekey.net
 edgesuite.net
