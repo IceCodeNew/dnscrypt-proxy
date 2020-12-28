@@ -16,10 +16,10 @@
 # so I block them. *.lan is apparently another common one, and
 # *.localdomain and *.workgroup are common on Windows.
 
-*.lan
-*.local
-*.localdomain
-*.workgroup
+lan
+local
+localdomain
+workgroup
 
 # eth0.me is hardcoded in tools such as Archey, but is not available any
 # more, causing issues such as terminal sessions taking a long time to
