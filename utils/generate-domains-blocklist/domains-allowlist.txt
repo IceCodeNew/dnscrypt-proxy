@@ -13,6 +13,7 @@ ce5.at
 cloudapp.net
 demon-networks.com
 download.dnscrypt.info
+edge.activity.windows.com
 edgekey.net
 edgesuite.net
 elasticbeanstalk.com
